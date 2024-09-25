@@ -5,7 +5,7 @@ body{
     margin: 0px;
 }
 p{
-    font-size: 12px;
+    font-size: 14px;
 }
 .hero{
     color:#ffffff;
@@ -23,7 +23,7 @@ p{
 }
 #description{
     background-color:#83c5be;
-    margin: 20px auto;
+    margin: 10px auto;
     max-width: fit-content;
     border-radius:5%;
     padding: 5px;
@@ -43,7 +43,7 @@ p{
 }
 .detailedinfo{
     color: #003566;
-    
+    padding: 0 100px;
 }
 .activity{
     display:flex;
@@ -51,7 +51,7 @@ p{
 }
 .secondpart{
     background-color:#caf0f8;
-    padding: 40px 40px;
+    padding: 20px 20px;
 }
 #img{
     border-radius: 5%;

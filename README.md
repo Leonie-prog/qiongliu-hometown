@@ -1,19 +1,21 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Qiong Liu's Hometown
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Welcome to the "Qiong Liu's Hometown" project! This project showcases the culture, landmarks, and unique features of Qiong Liu's hometown.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- **Cultural Insights**: Learn about the rich cultural heritage of Qiong Liu's hometown.
+- **Landmarks and Attractions**: Discover the most iconic landmarks and must-visit spots.
+- **Local Cuisine**: Explore the delicious local food offerings.
+- **Interactive Content**: Get an immersive experience with an interactive map and visual content.
 
-Happy Coding!
+## Installation
+
+To run this project locally:
+
+```bash
+# Clone this repository
+git clone https://github.com/Leonie-prog/qiongliu-hometown.git
+cd qiongliu-hometown
+
+# Open the index.html file in your browser to view the project
